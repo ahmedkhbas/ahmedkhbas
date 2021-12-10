@@ -1,1 +1,1 @@
-{'num':'10', 'msgs':'\nنشكركم لاستخدامكم واتساب عاصم محجوب\nهذا التطبيق مجاني ولا يكلفك اي عملية شراء, نحن نوفر لكم واتساب بلس بجميع الميزات مجانا\n\nقم بتحميله الان\nشكرا لكم لاستخدامكم هذا الواتساب المطور عاصم محجوب\n'}
+{'num':'1', 'msgs':'\nThis app is FREE and does NOT cost any money!\nIf you paid for it, you have been scammed!\n\nDo NOT buy it again, when an UPDATE is available you will get a message automatically.\nNo need to buy it\n'}
