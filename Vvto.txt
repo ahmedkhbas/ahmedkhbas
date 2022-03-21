@@ -1,1 +1,1 @@
-{'ver1':'8', 'ver2':'90', 'ver3':'\n[Base]1. 223.1.0.14.103\n[Added]2. Added Themes\n' , 'dli':'https://www.instamod.net/2021/07/instapro-latest-version-apk-download.html'}
+{'ver1':'9', 'ver2':'90', 'ver3':'\n[Base]1. 223.1.0.14.103\n[Added]2. Added Themes\n' , 'dli':'https://www.instamod.net/2021/07/instapro-latest-version-apk-download.html'}
