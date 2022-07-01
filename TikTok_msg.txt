@@ -1,6 +1,0 @@
-{
- "version":"2",
- "title":"احمد خباس",
- "description":"اشترك معنا",
- "download":"https://admodsapp.blogspot.com"
-}
