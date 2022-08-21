@@ -1,6 +1,6 @@
 {
  "version":"3",
- "title":"V3 تحديث جديد",
+ "title":"ADinsta V3.0 تحديث",
  "description":"هناك تحديث جديد قم بتحميلة الان ",
  "download":"https://ahmedmods.blogspot.com/2022/03/Instagramad.html?m=1"
 }
