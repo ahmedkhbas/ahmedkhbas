@@ -1,5 +1,5 @@
 {
- "version":"6",
+ "version":"4",
  "title":"تحديث جديد",
  "description":"هناك تحديث جديد قم بتحميلة الان ",
  "download":"https://www.mediafire.com/file/exweph41d6n1hbs/GBWhatsApp_Pro_v17.apk/file"
