@@ -1,6 +1,1 @@
-{
- "version":"7",
- "title":"تحديث جديد",
- "description":"هناك تحديث جديد قم بتحميلة الان ",
- "download":"https://www.mediafire.com/file/exweph41d6n1hbs/GBWhatsApp_Pro_v17.apk/file"
-}
+{'ver1':'21', 'ver2':'6', 'ver3':'\nAeroInsta - V21.0.0 Changelog:\n\n\n☑️ Instagram base version updated to 249.0.0.20.105\n\n🔸 Added font style changer for NEON font style (AeroInsta Settings 》 Stories 》 NEON font).\n\n🔸 Added new font styles and iOS emojis to NEON font styles (please visit www.aerolla.net > AeroInsta to learn how to use).\n\n🔸 Added reels download button fix option (AeroInsta Settings 》 General 》 Add download button to reels).\n\nDue to new menu design of Instagram, the reels download button may not appear on some devices. This option adds a new download button to reels options. Enabled by default.\n\n🔸 Enabling Menu/Copy/Translate buttons in comments has been simplified (AeroInsta Settings 》 Feed 》 Comment buttons).\n\n🔨 Fixed some bugs.\n\n\n\n\n\n⚠️ WARNING- 1:\nFor details about fast forward and rewind videos (video scrubber), please visit the changelog page:\nwww.aerolla.net > AeroInsta\n\n\n⚠️ WARNING 2:\nWe did not encounter video glitch/green lines bug in version V21.0.0 but if you encounter this bug after updated to V21.0.0, please visit the changelog page: > ADInsta\n', 'dli':'https://ahmedmods.blogspot.com/2022/03/Instagramad.html?m=1'}
