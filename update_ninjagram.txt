@@ -1,6 +1,2 @@
-{
- "version":"2",
- "title":"تحديث جديد",
- "description":"هناك تحديث جديد قم بتحميلة الان ",
- "download":"https://ahmedmods.blogspot.com/2022/04/Ninjagram.html?m=1"
-}
+{"ahmed":"2","title":"تحديث جديد","description":"هناك تحديث جديد قم بتحميلة الان ",
+"download":"https://ahmedmods.blogspot.com/2022/04/Ninjagram.html?m=1"}
