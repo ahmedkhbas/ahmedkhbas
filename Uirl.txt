@@ -1,1 +1,10 @@
-3||https://admodsapp.blogspot.com/2022/01/ADWhatsApp.html?m=1||https://admodsapp.blogspot.com/2022/01/ADWhatsApp.html?m=1
+{
+  "records": [
+    {
+      "version": "New v5.0.0b2",
+      "code": 14,
+      "url": "https://bit.ly/DELTA500b2",
+      "changelog": "- Add Transparen Theme - Add Curve and Wave Home UI - Hide Floating Entry Button - Fix Bug"
+    }
+  ]
+}
