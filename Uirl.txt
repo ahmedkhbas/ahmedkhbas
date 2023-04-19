@@ -1,10 +1,16 @@
 {
-  "records": [
-    {
-      "version": "New v5.0.0b2",
-      "code": 14,
-      "url": "https://bit.ly/DELTA500b2",
-      "changelog": "- Add Transparen Theme - Add Curve and Wave Home UI - Hide Floating Entry Button - Fix Bug"
+  "GB": {
+    "update_gbhelp_code": "0",
+    "reminder_time": "3",
+    "insta_themes": "0",
+    "update_link": "https://www.mediafire.com/file/348ggnzd0f2o1tb/GBHelp_v2.apk/file",
+    "app_gbwa": "https://www.gbgroupapps.com/GBWA.html,v19,GBWhatsApp,com.gbwhatsapp",
+    "update_message": "
+<p>Update Vطھط­ط¯ظٹط« 18</p>
+
+<li>ط¥طµظ„ط§ط­ط§طھ.</li>
+
+<li>Fixes</li>
+"
     }
-  ]
 }
