@@ -1,16 +1,1 @@
-{
-  "GB": {
-    "update_gbhelp_code": "0",
-    "reminder_time": "3",
-    "insta_themes": "0",
-    "update_link": "https://www.mediafire.com/file/348ggnzd0f2o1tb/GBHelp_v2.apk/file",
-    "app_gbwa": "https://www.gbgroupapps.com/GBWA.html,v19,GBWhatsApp,com.gbwhatsapp",
-    "update_message": "
-<p>Update Vطھط­ط¯ظٹط« 18</p>
-
-<li>ط¥طµظ„ط§ط­ط§طھ.</li>
-
-<li>Fixes</li>
-"
-    }
-}
+32||https://www.admods.app/2022/01/ADWhatsApp.html||https://www.admods.app/2022/01/ADWhatsApp.html
