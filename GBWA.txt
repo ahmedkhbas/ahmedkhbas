@@ -4,8 +4,7 @@
     "reminder_time": "3",
     "insta_themes": "1",
     "update_link": "https://www.mediafire.com/file/pwpnt8e11mu7jl1/GBHelp_v2.4.apk/file",
-    "app_gbinsta": "https://www.mediafire.com/file/326x4eo9s1ew9h3/GBInsta_v2.1_by_atnfas_hoak.apk/file,v2.1,GBInstagram,com.gbinsta.android",
-    "app_insta": "https://www.mediafire.com/file/auzegoa7zamxv3q/GBInstaPlus_v2.1_by_atnfas_hoak.apk/file,v2.1,GBInstagram Plus,com.instagram.android",
+    
     "app_gbwa": "https://www.mediafire.com/file/64shb23kis4rd94/GBWA_v23.2_by_atnfas_hoak.apk/file,v23.2,GBWhatsApp,com.gbwhatsapp",
     "app_gbwa3": "https://www.mediafire.com/file/x6po7z5b059mxmc/GBWA3_v23.2_by_atnfas_hoak.apk/file,v23.2,GBWhatsApp3,com.gbwhatsapp3",
     "app_wa": "https://www.mediafire.com/file/0o96q7y4yd3753e/WAPlus_v23.2_by_atnfas_hoak.apk/file,v23.2,WhatsApp,com.whatsapp",
