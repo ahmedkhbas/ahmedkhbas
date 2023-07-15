@@ -1,0 +1,24 @@
+{
+  "GB": {
+    "update_gbhelp_code": "4",
+    "reminder_time": "3",
+    "insta_themes": "1",
+    "update_link": "https://www.mediafire.com/file/pwpnt8e11mu7jl1/GBHelp_v2.4.apk/file",
+    "app_gbinsta": "https://www.mediafire.com/file/326x4eo9s1ew9h3/GBInsta_v2.1_by_atnfas_hoak.apk/file,v2.1,GBInstagram,com.gbinsta.android",
+    "app_insta": "https://www.mediafire.com/file/auzegoa7zamxv3q/GBInstaPlus_v2.1_by_atnfas_hoak.apk/file,v2.1,GBInstagram Plus,com.instagram.android",
+    "app_gbwa": "https://www.mediafire.com/file/64shb23kis4rd94/GBWA_v23.2_by_atnfas_hoak.apk/file,v23.2,GBWhatsApp,com.gbwhatsapp",
+    "app_gbwa3": "https://www.mediafire.com/file/x6po7z5b059mxmc/GBWA3_v23.2_by_atnfas_hoak.apk/file,v23.2,GBWhatsApp3,com.gbwhatsapp3",
+    "app_wa": "https://www.mediafire.com/file/0o96q7y4yd3753e/WAPlus_v23.2_by_atnfas_hoak.apk/file,v23.2,WhatsApp,com.whatsapp",
+    "app_fmwa": "https://www.mediafire.com/file/2y7yb6lrj6x5lqk/FMWA_v23.2_by_atnfas_hoak.apk/file,v23.2,FMWhatsApp,com.fmwhatsapp",
+    "app_yowa": "https://www.mediafire.com/file/t8ypi1n6panlgj2/YOWA_v23.2_by_atnfas_hoak.apk/file,v23.2,YOWhatsApp,com.yowhatsapp",
+    "app_nowa": "https://www.mediafire.com/file/13bvaarimcaaofz/NOWA_v23.2_by_atnfas_hoak.apk/file,v23.2,NOWhatsApp,com.nowhatsapp",
+    "app_nowa2": "https://www.mediafire.com/file/lq801s9lrag9vnl/NOWA2_v23.2_by_atnfas_hoak.apk/file,v23.2,NOWhatsApp2,com.nowhatsapp2",
+    "app_nowa3": "https://www.mediafire.com/file/s38me39190q21xw/NOWA3_v23.2_by_atnfas_hoak.apk/file,v23.2,NOWhatsApp3,com.nowhatsapp3",
+    "update_message": "
+<li>V2.4</li>
+<li>ط¯ط¹ظ… ط§ط±ط³ط§ظ„ ط§ظ„ظ…ط´ط§ظƒظ„ ظˆ ط§ظ„ط§ظ‚طھط±ط§ط­ط§طھ ظˆط§ظ„ط¯ط±ط¯ط´ط© ظ…ط¹ ط§ظ„ظ…ط·ظˆط± ط¨ط´ظƒظ„ ظ…ط¨ط§ط´ط±.</li>
+
+<li>Support send suggestions and chat with the developer directly.</li>
+"
+    }
+}
