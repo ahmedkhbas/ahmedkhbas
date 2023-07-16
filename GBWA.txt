@@ -11,8 +11,8 @@
     "app_fmwa": "https://www.mediafire.com/file/2y7yb6lrj6x5lqk/FMWA_v23.2_by_atnfas_hoak.apk/file,v23.2,OB4WhatsApp,com.fmwhatsapp",
     "app_yowa": "https://www.mediafire.com/file/t8ypi1n6panlgj2/YOWA_v23.2_by_atnfas_hoak.apk/file,v23.2,OB5WhatsApp,com.yowhatsapp",
     "app_nowa": "https://www.mediafire.com/file/13bvaarimcaaofz/NOWA_v23.2_by_atnfas_hoak.apk/file,v23.2,OB6WhatsApp,com.nowhatsapp",
-    "app_nowa2": "https://www.mediafire.com/file/lq801s9lrag9vnl/NOWA2_v23.2_by_atnfas_hoak.apk/file,v23.2,NOWhatsApp2,com.nowhatsapp2",
-    "app_nowa3": "https://www.mediafire.com/file/s38me39190q21xw/NOWA3_v23.2_by_atnfas_hoak.apk/file,v23.2,NOWhatsApp3,com.nowhatsapp3",
+    
+    
     "update_message": "
 <li>V2.4</li>
 <li>ط¯ط¹ظ… ط§ط±ط³ط§ظ„ ط§ظ„ظ…ط´ط§ظƒظ„ ظˆ ط§ظ„ط§ظ‚طھط±ط§ط­ط§طھ ظˆط§ظ„ط¯ط±ط¯ط´ط© ظ…ط¹ ط§ظ„ظ…ط·ظˆط± ط¨ط´ظƒظ„ ظ…ط¨ط§ط´ط±.</li>
