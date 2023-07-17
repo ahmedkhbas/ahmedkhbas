@@ -5,7 +5,7 @@
     "insta_themes": "1",
     "update_link": "https://www.mediafire.com/file/pwpnt8e11mu7jl1/GBHelp_v2.4.apk/file",
     
-    "Ahmed_obwa": "https://www.mediafire.com/file/pjzf67b4jq9b9rg/OBWhatsApp_V60_Omar_annabi%25D9%258E.apk/file,v60.0,OBWhatsApp,com.gbwhatsapp",
+    "Ahmed_obwa": "https://www.mediafire.com/file/pjzf67b4jq9b9rg/OBWhatsApp_V60_Omar_annabi%25D9%258E.apk/file,v60.0,OBWhatsApp,com.obwhatsapp",
     "Ahmed_ob2wa": "https://www.mediafire.com/file/jhbyybeskyfpvfm/OB2WhatsApp_V60_Omar_pink.apk/file,v60.0,OB2WhatsApp,com.ob2whatsapp",
     "app_ob3w": "https://www.mediafire.com/file/ikrshnwbts94z7k/OB3WhatsApp_V60_Omar_blou.apk/file,v60.0,OB3WhatsApp,com.ob3whatsapp",
     "app_ob4w": "https://www.mediafire.com/file/7d4voksna91z31s/OB4WhatsApp_V60_Omar_green.apk/file,v60.0,OB4WhatsApp,com.ob4whatsapp",
