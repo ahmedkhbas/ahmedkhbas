@@ -11,18 +11,7 @@
     "Ahmed_ob4whatsapp": "https://www.mediafire.com/file/7d4voksna91z31s/OB4WhatsApp_V60_Omar_green.apk/file,v60.0,OB4WhatsApp,com.ob4whatsapp",
     "Ahmed_ob5whatsapp": "https://www.mediafire.com/file/ajdnsq4x1f3qmoy/OB5WhatsApp_V60_Omar_red.apk/file,v60.0,OB5WhatsApp,com.ob5whatsapp",
     "Ahmed_ob6whatsapp": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,OB6WhatsApp,com.ob6whatsapp",
-"Ahmed_adwhatsapp1": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,OB6WhatsApp,com.adwhatsapp1",
 
-"Ahmed_adwhatsapp2": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,OB6WhatsApp,com.adwhatsapp2",
-
-"Ahmed_adwhatsapp3": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,OB6WhatsApp,com.adwhatsapp3",
-
-"Ahmed_whatsapp": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,OB6WhatsApp,com.whatsapp",
-
-"Ahmed_shwhatsapp": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,OB6WhatsApp,com.shwhatsapp",
-
-"Ahmed_shwhatsapp2": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,OB6WhatsApp,com.shwhatsapp2",
-    
     
     "update_message": "
 <li>V2.4</li>
