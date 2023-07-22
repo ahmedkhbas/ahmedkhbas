@@ -5,12 +5,12 @@
     "insta_themes": "1",
     "update_link": "https://www.mediafire.com/file/pwpnt8e11mu7jl1/GBHelp_v2.4.apk/file",
     
-    "Ahmed_adwhatsapp1": "https://www.mediafire.com/file/pjzf67b4jq9b9rg/OBWhatsApp_V60_Omar_annabi%25D9%258E.apk/file,v60.0,ADWhatsApp1,com.adwhatsapp1",
-    "Ahmed_adwhatsapp2": "https://www.mediafire.com/file/jhbyybeskyfpvfm/OB2WhatsApp_V60_Omar_pink.apk/file,v60.0,ADWhatsApp2,com.adwhatsapp2",
-    "Ahmed_adwhatsapp3": "https://www.mediafire.com/file/ikrshnwbts94z7k/OB3WhatsApp_V60_Omar_blou.apk/file,v60.0,ADWhatsApp3,com.adwhatsapp3",
-    "Ahmed_whatsapp": "https://www.mediafire.com/file/7d4voksna91z31s/OB4WhatsApp_V60_Omar_green.apk/file,v60.0,WhatsApp,com.whatsapp",
-    "Ahmed_ninja": "https://www.mediafire.com/file/ajdnsq4x1f3qmoy/OB5WhatsApp_V60_Omar_red.apk/file,v60.0,Ninjagram,me.ninjagram.admods",
-    "Ahmed_insta": "https://www.mediafire.com/file/zqbnvii628ae6mh/OB6WhatsApp_V60_Omar_gold.apk/file,v60.0,Instagram,com.adinsta.android",
+    "Ahmed_adwhatsapp1": "https://www.mediafire.com/file/nrc020lm59aov13/ADWhatsApp1_V32_F2_By_Ahmed.apk/file,v32.0,ADWhatsApp1,com.adwhatsapp1",
+    "Ahmed_adwhatsapp2": "https://www.mediafire.com/file/oqj09fu075betpp/ADWhatsApp2_V32_F2_By_Ahmed.apk/file,v32.0,ADWhatsApp2,com.adwhatsapp2",
+    "Ahmed_adwhatsapp3": "https://www.mediafire.com/file/k9jq32plkt7p9qr/ADWhatsApp3_V32_F2_By_Ahmed.apk/file,v32.0,ADWhatsApp3,com.adwhatsapp3",
+    "Ahmed_whatsapp": "https://www.mediafire.com/file/1iysljw8fswpv6l/WhatsApp_V32_F2_By_Ahmed.apk/file,v32.0,WhatsApp,com.whatsapp",
+    "Ahmed_ninja": "https://www.mediafire.com/file/r0tmqjkb4k6xotp/Ninjagram_9.6.5.apk/file,v7.0,Ninjagram,me.ninjagram.admods",
+    "Ahmed_insta": "https://www.mediafire.com/file/p7j6egl8alan0ml/Instagram_Ad_v5.apk/file,v5.0,Instagram,com.adinsta.android",
 
     
     "update_message": "
