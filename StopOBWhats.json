@@ -1,1 +1,15 @@
-6||https://www.omaryemen.net/downloadd/||https://www.omaryemen.net/downloadd/
+[
+  {
+    "test": "Hello",
+    "id": "@amin"
+  },
+  {
+    "test": "Made with love",
+    "id": "@amin2"
+  },
+  {
+    "test": "Manufacturer ID in Telegram:
+https://t.me/amin_o_0",
+    "id": "@amin3"
+  }
+]
