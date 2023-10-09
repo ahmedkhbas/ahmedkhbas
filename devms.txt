@@ -1,10 +1,1 @@
-{
-  "records": [
-    {
-      "version": "ADWhatsApp v30",
-      "code": 56,
-      "url": "https://ahmedmods.blogspot.com/?m=1",
-      "changelog": "- هناك تحديث جديد قم بتحميلة الان"
-    }
-  ]
-}
+{'num':'7', 'msgs':'\Hello\n'}
