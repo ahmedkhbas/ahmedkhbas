@@ -1,1 +1,1 @@
-5||https://ahmedmods.blogspot.com/2022/01/ADWhatsApp.html?m=1||https://ahmedmods.blogspot.com/2022/01/ADWhatsApp.html?m=1
+{'ver1':'5', 'ver2':'0',   'ann_enabled':'true',    'caption':'hhhhh','media_url':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQmyVqxxJTYSSe_3PKM4q64vCaoE4G9-oN6Ju6DaxPdMO&s',  'media_type':'hhhhh',  'ann_id':'com', 'ver3':'\n•[تحديث استمتعوا واكتشفوا الجديد بنفسكم! \n\n' , 'dli':'https://www.admods.app/2023/03/bts.html'}
