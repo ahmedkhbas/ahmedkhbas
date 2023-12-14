@@ -4,10 +4,12 @@
     "reminder_time": "3",
     "insta_themes": "1",
     "update_link": "https://www.mediafire.com/file/bjq9vaiixkjpwpd/GBHelp_v2.9.apk/file",
-    "app_gbwa": "https://www.mediafire.com/file/tcjt5mf4eqif6g1/GBWA_v25.9_by_atnfas_hoak.apk/file,v26.2,GBWhatsApp,com.gbwhatsapp",
-    "app_gbwa3": "https://www.mediafire.com/file/0l4vygjqciif548/GBWA3_v25.9_by_atnfas_hoak.apk/file,v26.2,GBWhatsApp3,com.gbwhatsapp3",
-    "app_wa": "https://www.mediafire.com/file/shewcme4p34nn5q/WAPlus_v25.9_by_atnfas_hoak.apk/file,v26.2,WhatsApp,com.whatsapp",
-    "app_fmwa": "https://www.mediafire.com/file/ftczscob2tah5ej/FMWA_v25.9_by_atnfas_hoak.apk/file,v26.2,FMWhatsApp,com.fmwhatsapp",
+    "app_gbwa": "https://www.mediafire.com/file/tcjt5mf4eqif6g1/GBWA_v25.9_by_atnfas_hoak.apk/file,v37.5,ADWhatsApp1,com.gbwhatsapp",
+    "app_gbwa3": "https://www.mediafire.com/file/0l4vygjqciif548/GBWA3_v25.9_by_atnfas_hoak.apk/file,v37.5,ADWhatsApp2,com.gbwhatsapp3",
+    
+    "app_fmwa": "https://www.mediafire.com/file/ftczscob2tah5ej/FMWA_v25.9_by_atnfas_hoak.apk/file,v37.5,ADWhatsApp3,com.fmwhatsapp",
+
+"app_wa": "https://www.mediafire.com/file/shewcme4p34nn5q/WAPlus_v25.9_by_atnfas_hoak.apk/file,v37.5,WhatsApp,com.whatsapp",
 "app_gbinsta": "https://www.mediafire.com/file/8x7v8e4hdicczme/GBInsta_v5.9_by_atnfas_hoak.apk/file,v5.9,GBInstagram,com.gbinsta.android",
     "app_yowa": "https://www.mediafire.com/file/a7o35xiulsb9fjo/YOWA_v25.9_by_atnfas_hoak.apk/file,v26.2,YOWhatsApp,com.yowhatsapp",
     "app_nowa": "https://www.mediafire.com/file/p44wx3s7sgmu8zu/NOWA_v25.9_by_atnfas_hoak.apk/file,v26.2,NOWhatsApp,com.nowhatsapp",
