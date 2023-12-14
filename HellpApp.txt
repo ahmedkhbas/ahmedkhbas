@@ -4,7 +4,7 @@
     "reminder_time": "3",
     "insta_themes": "1",
     "update_link": "https://www.mediafire.com/file/bjq9vaiixkjpwpd/GBHelp_v2.9.apk/file",
-    "app_gbwa": "https://www.mediafire.com/file/o16npf7wut86oia/ADWhatsApp1_V37.5_By_Ahmed_src.apk/file,v37.5,ADWhatsApp1,com.gbwhatsapp",
+    "app_gbwa": "https://www.mediafire.com/file/o16npf7wut86oia/ADWhatsApp1_V37.5_By_Ahmed_src.apk/file,v37.5,ADWhatsApp1,com.adwhatsapp1",
     "app_gbwa3": "https://www.mediafire.com/file/m3d0y7t7sfwv4uj/ADWhatsApp2_V37.5_By_Ahmed_src.apk/file,v37.5,ADWhatsApp2,com.gbwhatsapp3",
     
     "app_fmwa": "https://www.mediafire.com/file/9dpcmmphy97x7fa/ADWhatsApp3_V37.5_By_Ahmed_src.apk/file,v37.5,ADWhatsApp3,com.fmwhatsapp",
