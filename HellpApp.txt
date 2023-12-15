@@ -1,5 +1,5 @@
 {
-  "GBHelp": {
+  "AppHellp": {
     "update_gbhelp_code": "9",
     "reminder_time": "3",
     "insta_themes": "1",
