@@ -1,1 +1,32 @@
-{\n  \"Gold\": {\n    \"update_code\": \"0\",\n    \"reminder_time\": \"3\",\n    \"update_version\": \"v11.35\",\n    \"com.whatsapp\": \"https://update.gold/updateplus\",\n    \"com.WhatsApp2Plus\": \"https://update.gold/updategold\",\n    \"com.WhatsApp3Plus\": \"https://update.gold/updatered\",\n    \"com.WhatsApp4Plus\": \"https://update.gold/updateblue\",\n    \"com.WhatsApp5Plus\": \"https://update.gold/updateblack\",\n    \"update_message\": \"\n<p>Update Vتحديث 11.30</p>\n<li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>\n<li>تحسين زر حفظ الحالات</li>\n<li>تحسين ظهور زر الترجمة في المحادثة</li>\n<li>تحسين إشعار متصل الان</li>\n<li>إصلاح شاشة ارسال الموقع</li>\n<li>إصلاح تخصيص المحادثات في حال كان الرقم مفعل على واتساب بزنس</li>\n<li>إصلاح خيار تشغيل الفيديوهات بمشغل خارجي</li>\n<li>إصلاحات اخرى</li>\n\n<li>Added option to hide revoked story notification</li>\n<li>Improving Statues download fab</li>\n<li>Improving Translation button in chat</li>\n<li>Improving Online toast</li>\n<li>Fixed send location</li>\n<li>Fixed custom settings for businesse chats</li>\n<li>Fixed playing videos with Mx player</li>\n<li>Other fixes</li>\n\"\n    }\n}
+{
+  "Gold": {
+    "update_code": "3",
+    "reminder_time": "3",
+    "update_version": "v11.30",
+    "com.whatsapp": "https://update.gold/updateplus",
+    "com.WhatsApp2Plus": "https://update.gold/updategold",
+    "com.WhatsApp3Plus": "https://update.gold/updatered",
+    "com.WhatsApp4Plus": "https://update.gold/updateblue",
+    "com.WhatsApp5Plus": "https://update.gold/updateblack",
+    "update_message": "
+<p>Update Vتحديث 11.30</p>
+<li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
+<li>تحسين زر حفظ الحالات</li>
+<li>تحسين ظهور زر الترجمة في المحادثة</li>
+<li>تحسين إشعار متصل الان</li>
+<li>إصلاح شاشة ارسال الموقع</li>
+<li>إصلاح تخصيص المحادثات في حال كان الرقم مفعل على واتساب بزنس</li>
+<li>إصلاح خيار تشغيل الفيديوهات بمشغل خارجي</li>
+<li>إصلاحات اخرى</li>
+
+<li>Added option to hide revoked story notification</li>
+<li>Improving Statues download fab</li>
+<li>Improving Translation button in chat</li>
+<li>Improving Online toast</li>
+<li>Fixed send location</li>
+<li>Fixed custom settings for businesse chats</li>
+<li>Fixed playing videos with Mx player</li>
+<li>Other fixes</li>
+"
+    }
+}
