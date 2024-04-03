@@ -1,10 +1,1 @@
-{
-  "records": [
-    {
-      "version": "ADWhatsApp V37.5",
-      "code": 85,
-      "url": "https://www.admods.app/2022/01/ADWhatsApp.html?m=1",
-      "changelog": " - يتوفر تحديث اصلاحي وتم حل جميع المشاكل يرجئ تحميلة الان"
-    }
-  ]
-}
+{\n  \"Gold\": {\n    \"update_code\": \"0\",\n    \"reminder_time\": \"3\",\n    \"update_version\": \"v11.35\",\n    \"com.whatsapp\": \"https://update.gold/updateplus\",\n    \"com.WhatsApp2Plus\": \"https://update.gold/updategold\",\n    \"com.WhatsApp3Plus\": \"https://update.gold/updatered\",\n    \"com.WhatsApp4Plus\": \"https://update.gold/updateblue\",\n    \"com.WhatsApp5Plus\": \"https://update.gold/updateblack\",\n    \"update_message\": \"\n<p>Update Vتحديث 11.30</p>\n<li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>\n<li>تحسين زر حفظ الحالات</li>\n<li>تحسين ظهور زر الترجمة في المحادثة</li>\n<li>تحسين إشعار متصل الان</li>\n<li>إصلاح شاشة ارسال الموقع</li>\n<li>إصلاح تخصيص المحادثات في حال كان الرقم مفعل على واتساب بزنس</li>\n<li>إصلاح خيار تشغيل الفيديوهات بمشغل خارجي</li>\n<li>إصلاحات اخرى</li>\n\n<li>Added option to hide revoked story notification</li>\n<li>Improving Statues download fab</li>\n<li>Improving Translation button in chat</li>\n<li>Improving Online toast</li>\n<li>Fixed send location</li>\n<li>Fixed custom settings for businesse chats</li>\n<li>Fixed playing videos with Mx player</li>\n<li>Other fixes</li>\n\"\n    }\n}
