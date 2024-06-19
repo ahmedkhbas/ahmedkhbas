@@ -4,7 +4,7 @@
     "reminder_time": "3",
     "update_version": "v14.00",
     "com.whatsapp": "https://update.gold/updateplus",
-    "com.WhatsApp2Plus": "https://update.gold/updategold",
+    "com.adwhatsapp2": "https://update.gold/updategold",
     "com.WhatsApp3Plus": "https://update.gold/updatered",
     "com.WhatsApp4Plus": "https://update.gold/updateblue",
     "com.WhatsApp5Plus": "https://update.gold/updateblack",
