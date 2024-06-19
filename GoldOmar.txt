@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "14",
-    "reminder_time": "3",
-    "update_version": "v14.00",
+    "update_code": "15",
+    "reminder_time": "300",
+    "update_version": "v15.00",
     "com.whatsapp": "https://2.eessq1.com/?p=228",
     "com.adwhatsapp2": "https://2.eessq1.com/?p=228",
     "com.WhatsApp3Plus": "https://2.eessq1.com/?p=228",
