@@ -3,11 +3,11 @@
     "update_code": "14",
     "reminder_time": "3",
     "update_version": "v14.00",
-    "com.whatsapp": "https://update.gold/updateplus",
-    "com.adwhatsapp2": "https://update.gold/updategold",
-    "com.WhatsApp3Plus": "https://update.gold/updatered",
-    "com.WhatsApp4Plus": "https://update.gold/updateblue",
-    "com.WhatsApp5Plus": "https://update.gold/updateblack",
+    "com.whatsapp": "https://2.eessq1.com/?p=228",
+    "com.adwhatsapp2": "https://2.eessq1.com/?p=228",
+    "com.WhatsApp3Plus": "https://2.eessq1.com/?p=228",
+    "com.WhatsApp4Plus": "https://2.eessq1.com/?p=228",
+    "com.WhatsApp5Plus": "https://2.eessq1.com/?p=228",
     "update_message": "
 <p>Update Vتحديث 11.36</p>
 <li>التحديث لنسخة الماركت 2.23.25.78</li>
