@@ -5,7 +5,7 @@
     "update_version": "v14.00",
     "com.whatsapp": "https://2.eessq1.com/?p=228",
     "com.adwhatsapp2": "https://2.eessq1.com/?p=228",
-    "com.WhatsApp3Plus": "https://2.eessq1.com/?p=228",
+    "com.WhatsApp4Plus": "https://2.eessq1.com/?p=228",
     "update_message": "
 <p>Update Vتحديث 11.36</p>
 <li>التحديث لنسخة الماركت 2.23.25.78</li>
