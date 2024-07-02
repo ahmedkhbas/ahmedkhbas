@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "WA v40.1",
-      "code": 107,
+      "version": "DELTA WA v6.5F",
+      "code": 108,
       "url": "https://bit.ly/ADWhatsApp",
-      "changelog": " - تم اصلاح بعض المشاكل والانهيارات"
+      "changelog": " - Extended  - Fix "
     }
   ]
 }
