@@ -1,0 +1,36 @@
+{
+  "Gold": {
+    "update_code": "3",
+    "reminder_time": "3",
+    "update_version": "v3.50",
+    "org.telegram.gold": "https://telegold.app/dlltele",
+    "update_message": "
+<p>Update Vتحديث 3.50</p>
+<li>التحديث لنسخة الماركت 10.13.1.2</li>
+<li>امكانية تصوير الشاشة في الستوري في حالة المنع</li>
+<li>امكانية حفظ الستوري في حالة المنع</li>
+<li>امكانية نسخ رابط الستوري في حالة المنع</li>
+<li>تأثيرات الرسائل</li>
+<li>التسميات أعلى الوسائط</li>
+<li>إجراءات سريعة لأرقام الهواتف</li>
+<li>بحث الهاشتاج</li>
+<li>اقتباسات قابلة للطي</li>
+<li>اضافة ملفي الشخصي</li>
+<li>اضافة أعياد الميلاد</li>
+<li>إصلاحات اخرى</li>
+
+<li>Base Update: 10.13.1.2</li>
+<li>Screen capture enabled for stories if it is stopped</li>
+<li>Story saving enabled if it is stopped</li>
+<li>Copy story link enabled if it is stopped</li>
+<li>Message Effects</li>
+<li>Captions Above Media</li>
+<li>Quick Actions for Phone Numbers</li>
+<li>Hashtag Search</li>
+<li>Collapsible Quotes</li>
+<li>Added My Profile</li>
+<li>Added Birthdays</li>
+<li>Other fixes</li>
+"
+    }
+}
