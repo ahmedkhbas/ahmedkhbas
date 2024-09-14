@@ -1,8 +1,8 @@
 {
   "Gold": {
     "update_code": "3",
-    "reminder_time": "3",
-    "update_version": "v3.50",
+    "reminder_time": "30",
+    "update_version": "v3.55",
     "org.telegram.gold": "https://telegold.app/dlltele",
     "update_message": "
 <p>Update Vتحديث 3.50</p>
