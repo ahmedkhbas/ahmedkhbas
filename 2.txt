@@ -1,1 +1,1 @@
-{"app name":"Drama Live","package":"com.livedrama_app","version code":"178","version name":"13.0.2","download url":"https:\/\/upd.traidmod.com\/go?id=com.sneig.livedrama"}
+{"app name":"Drama Live","package":"com.livedrama_app","version code":"2147483649","version name":"13.0.2","download url":"https:\/\/upd.traidmod.com\/go?id=com.sneig.livedrama"}
