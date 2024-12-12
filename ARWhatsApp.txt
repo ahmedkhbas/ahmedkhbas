@@ -1,1 +1,1 @@
-{"app name":"Instagram Live","package":"com.obinsta.android","version code":"148","version name":"1.4.8","download url":"https://www.admods.app"}
+{"app name":"Instagram","package":"com.obinsta.android","version code":"11","version name":"11","download url":"https://www.admods.app"}
