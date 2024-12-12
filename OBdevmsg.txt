@@ -1,1 +1,3 @@
-{'num':'0', 'msgs':'\نشكركم لاستخدامكم واتساب عمر\nهذا التطبيق مجاني ولا يكلفك اي عملية شراء, نحن نوفر لكم واتساب بلس بجميع الميزات مجانا\n\n قم بتحميله الان\nشكرا لكم لاستخدامكم هذا الواتساب المطور واتساب عمر\n'}
+{'num':'1', 'msgs':'\n اعزائي مستخدمسن واتساب عمر\nفي حال كنت تواجه انهيار في التطبيق عند الدخول لقسم الحالات فقط قم بالدخول الى \n الاضافات ثم الشاشة الرئيسية ثم البار العالوي وقم بايقاف خيار فصل المجموعات \n\n Dear Omar WhatsApp users, if you are facing a crash in the application when entering the status section, just go to Add-ons, then the main screen, then the top bar, and turn off the option to separate groups.'}
+
+
