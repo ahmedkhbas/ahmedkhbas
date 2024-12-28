@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>واتساب عمر</title>
+    <style>
+        /* تنسيق الصفحة */
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f3f3f3;
+            font-family: Arial, sans-serif;
+            overflow: hidden;
+        }
+
+        /* النص المتحرك */
+        .animated-text {
+            font-size: 24px;
+            font-weight: bold;
+            color: #4caf50;
+            animation: slide-in 2s infinite alternate;
+        }
+
+        /* الحركة */
+        @keyframes slide-in {
+            from {
+                transform: translateY(-10px);
+            }
+            to {
+                transform: translateY(10px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="animated-text">واتساب عمر</div>
+</body>
+</html>
