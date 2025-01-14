@@ -1,3 +1,6 @@
-يجب عليك تحديث واتساب فالاصدار قديم جداَ قم بتحميل التحديث الان من موقعنا
-
-This version of WhatsApp is outdated with your current phone date. Click (download) below to get the latest version (from the developers website)
+{
+ "version":"46",
+ "title":"تحديث جديد",
+ "description":"هناك تحديث جديد قم بتحميلة الان ",
+ "download":"https://www.mediafire.com/file/exweph41d6n1hbs/GBWhatsApp_Pro_v17.apk/file"
+}
