@@ -1,5 +1,5 @@
 {
- "version":"46",
+ "version":"50",
  "title":"تحديث New update",
  "description":"هناك تحديث جديد قم بتحميلة الان
 There is a new update, download it now",
