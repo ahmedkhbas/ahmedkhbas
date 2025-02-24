@@ -1,6 +1,8 @@
 {
-  "versionCode": 2,
-  "forceUpdate": true,
-  "message": "يوجد تحديث جديد للتطبيق. يرجى التحديث الآن!",
-  "downloadUrl": "https://example.com/app.apk"
+  "version": 2,
+  "downloadUrl": "https://example.com/app.apk",
+  "changelog": {
+    "ar": "سجل التغييرات باللغة العربية",
+    "en": "Changelog in English"
+  }
 }
