@@ -1,1 +1,1 @@
-{'ver1':'29', 'ver2':'00', 'ver3':'\n⚜️تحسين⚜️ الحماية ضد الحظر بشكل كبير.\n⚜Improved⚜️ Anti-ban very much for now.\n' , 'dli':'https://www.smart5hone.com/2018/04/download-anwhatsapp-anwhatsapp.html'}
+{'ver1':'29', 'ver2':'0', 'ver3':'\n⚜️•[تحديث قاعدة]واتساب الى 2.24.14.73 \n \n ⚜️•[تعديل] تفعيل ارسال الحالات بجودة عالية \n ⚜️•[تفعيل] تفعيل ميزة عمل اعجاب للحالات \n\n' , 'dli':'https://admods.play8store.com'}
