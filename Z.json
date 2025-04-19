@@ -1,5 +1,10 @@
 {
-  "premium": [
-    {"number": "f5aef85729a1bf2", "expiryTime": "2025-08-20T00:00:00Z"},
-  ]
+  "1f5aef85729a1bf2": {
+    "expiry_date": "2025-12-31",
+    "notes": "Premium user"
+  },
+  "987654321fedcba": {
+    "expiry_date": "2023-06-30",
+    "notes": "Trial user"
+  }
 }
