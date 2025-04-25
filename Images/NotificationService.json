@@ -1,7 +1,7 @@
 {
-  "ver1": 2,
-  "Title": "انقر لعرض التفاصيل !",
-  "Title2": "اشعار جديد !",
+  "ver1": 2, 
+  "Title": "اشعار جديد !",
+  "Summary": "انقر لعرض التفاصيل !",
   "imgeurl": "https://raw.githubusercontent.com/ahmedkhbas/ahmedkhbas/refs/heads/main/Images/Z.jpg",
   "url": "https://your-website.com/download"
 }
