@@ -1,6 +1,7 @@
 {
   "enabled": true,
   "text": "Special Offer! 2",
+  "header": "header Offer",
   "textSize": 18,
   "bgColor": "#FFF5F5F5",
   "textColor": "#FF000000",
