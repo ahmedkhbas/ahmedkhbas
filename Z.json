@@ -1,8 +1,9 @@
 {
-  "devices": [
-    "com.my.newproject10:1f5aef85729a1bf2",
-    "x9y8z7w6v5u4t3s2",
-    "m1n2b3v4c5x6z7l8k"
-  ],
-  "last_update": "2023-12-01T12:00:00Z"
+  "enabled": true,
+  "text": "Special Offer!",
+  "textSize": 18,
+  "bgColor": "#FFEB3B",
+  "position": "bottom",
+  "imageUrl": "https://example.com/image.png",
+  "clickUrl": "https://example.com/deal"
 }
