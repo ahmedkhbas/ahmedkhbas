@@ -2,7 +2,7 @@
   "enabled": true,
   "text": "Special Offer! 2",
   "textSize": 18,
-  "bgColor": "#FFEB3B",
+  "bgColor": "#FFADADAD",
   "position": "bottom",
   "imageUrl": "https://raw.githubusercontent.com/ahmedkhbas/ahmedkhbas/main/Images/yy.jpg",
   "clickUrl": "https://t.me/adwhats"
