@@ -1,3 +1,5 @@
 {
-  "download_url": "https://admods.play8store.com"
+  "type": "info",
+  "url": "https://yourdomain.com/files/announcement.pdf",
+  "caption": "📢 تحديث جديد متاح الآن!"
 }
