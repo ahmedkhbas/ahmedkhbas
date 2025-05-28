@@ -2,4 +2,6 @@
   "type": "info",
   "url": "https://yourdomain.com/files/announcement.pdf",
   "caption": "📢 تحديث جديد متاح الآن!"
+  "latest_ann": 6,
+  "ann_6_ready": 1716900000000
 }
