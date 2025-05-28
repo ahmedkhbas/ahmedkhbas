@@ -1,7 +1,6 @@
 {
-  "type": "info",
-  "url": "https://yourdomain.com/files/announcement.pdf",
-  "caption": "📢 تحديث جديد متاح الآن!"
-  "latest_ann": 6,
-  "ann_6_ready": 1716900000000
+  "media_type": "video", 
+  "media_file": "https://example.com/video.mp4", 
+  "caption": "إعلان جديد من فريق التطوير", 
+  "timestamp": 1716900000000
 }
