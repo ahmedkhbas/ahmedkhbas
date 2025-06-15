@@ -1,4 +1,5 @@
 {
-    "url": "https://t.me/adwhats",
-    "update_interval_days": 2
+  "image_url": "https://example.com/image.jpg",
+  "text": "هذه رسالة مخصصة",
+  "enabled": true
 }
