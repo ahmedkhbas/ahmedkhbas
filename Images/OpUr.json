@@ -1,5 +1,6 @@
 {
+  "enabled": true,
   "image_url": "https://raw.githubusercontent.com/ahmedkhbas/ahmedkhbas/main/Images/Z.jpg",
   "text": "هذه رسالة مخصصة",
-  "enabled": true
+  "layout_control": true
 }
