@@ -1,6 +1,7 @@
 {
-  "enabled": true,
-  "image_url": "https://raw.githubusercontent.com/ahmedkhbas/ahmedkhbas/main/Images/Z.jpg",
-  "text": "هذه رسالة مخصصة",
-  "layout_control": true
+  "users": [
+    "Ahmed",
+    "اسم2",
+    "اسم3"
+  ]
 }
