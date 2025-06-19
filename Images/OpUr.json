@@ -1,7 +1,3 @@
 {
-  "users": [
-    "Ahmed",
-    "اسم2",
-    "اسم3"
-  ]
+  "users": ["Ahmed", "Sara", "Mohammed"]
 }
