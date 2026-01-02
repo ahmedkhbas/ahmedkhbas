@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 8,
   "downloadUrl": "https://t.me/adwhats",
   "changelog": {
     "ar": "يتوفر تحديث جديد يجب عليك تحديث التطبيق للتمكن من استخدامة",
