@@ -1,8 +1,8 @@
 {
-  "app_name": "Truecaller Premium",
-  "package": "com.adMods.renamefile",
-  "version_code": "3",
-  "version_name": "16.9.9",
-  "download_url": "https://admods.play8store.com",
-  "push_url": "https://admods.play8store.com"
+  "appName": "Truecaller Premium",
+  "packageName": "com.adMods.renamefile",
+  "versionCode": "3",
+  "versionName": "16.9.9",
+  "downloadUrl": "https://admods.play8store.com",
+  "pushUrl": "https://admods.play8store.com"
 }
